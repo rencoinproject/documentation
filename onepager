@@ -1,7 +1,7 @@
-# Rencoin. liberty through privacy.
+#Rencoin. liberty through privacy.
 
 
-# What is Rencoin?
+#What is Rencoin?
 Rencoin is a community and privacy focused cryptocurrency based on a POW/POS hybrid system 
 Rencoin exists to provide freedom to users by defending their right to privacy and private 
 financial transactions. The coin offeououbrs the ability to send instantaneous transactions 
@@ -9,24 +9,24 @@ as well as to send highlyprivate transactions. Rencoin started with proof of wor
 will transition into proof of stake model. It features masternode technology, and also incorporates
 a staking based algorithm thus securing the network and also rewarding coin holders.
 
-# Why is Rencoin Different?
+#Why is Rencoin Different?
 Rencoin is different because privacy matters to us. Our network, allows traffic 
 to be routed via The Onion Router (TOR) and all our wallets and masternodes are fully functional
 over the TOR network.
 
-# What is a Masternode?
+#What is a Masternode?
 Masternodes secure the Rencoin network. They receive packages (transactions),
 check their postage (validate them), expedite them (InstantSend), hide their
 originator / destination (Private Send), and make sure they get where they need
 to go (secure the network). Masternodes receive payments from the network for this work.
 
-# What is a Blockchain?
+#What is a Blockchain?
 A block chain is a one-way ledger (think, "checkbook") that records all of the 
 activity on the Rencoin network. A block is a group of transactions bundled together
 for entry into the ledger. Blocks build upon one and other to form a chain, hence
 the term "block chain".
 
-# What is Proof of Work (POW)?
+#What is Proof of Work (POW)?
 POW is like mining for gold. Miners put in work by dedicating computing
 resources (Hash Power) to a series of complex mathematical puzzles, in the hopes 
 of solving them before anyone else. Whoever (or whichever group of people as in the
@@ -35,14 +35,14 @@ it to the block chain. As a reward for doing this the Rencoin network/block chai
 gives a block reward to the miner(s). When miners pool their resources they may 
 find blocks more frequently, but those rewards are split across the miners in the group.
 
-# What is Proof of Stake (POS)?
+#What is Proof of Stake (POS)?
 POS allows a holder of cryptocurrency on the Rencoin chain to validate transactions 
 on the chain according to the amount he/she holds. Simply put, the more coins held,
 the more transactions are validated (or mined) by the holder. POS eliminates the need
 for miners on the network to validate transactions. The first cryptocurrency to adopt 
 the POS method was Peercoin, after which other forks have been adapted upon
 
-# The Future.
+#The Future.
 
 Every project promises future developments. Rencoin is focused on user adoption, 
 creating a decentralized exchange built upon the node network that Rencoin
